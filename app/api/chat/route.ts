@@ -23,7 +23,7 @@ export async function POST(request: Request) {
     } catch (error) {
         console.error('Gemini API Error:', error.message);
         return Response.json(
-            { error: 'Failed to generate response from AI model.' },
+            { error: 'Failed to generate response from AI model.' },        
             { status: 500 }
         );
     }
