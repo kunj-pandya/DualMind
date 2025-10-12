@@ -5,6 +5,19 @@ It supports **normal chat** and **real-time streaming chat**, showing how you ca
 
 ---
 
+ ## 🖼 Screenshots
+
+### Main Page
+
+![Response](project-screenshot/dualmind-response.png)
+
+### Main Page
+
+![Stream-Response](project-screenshot/dualmind-stream-response.png)
+
+
+---
+
 ## Features
 
 - Interactive chat UI (Ask anything)
