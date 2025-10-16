@@ -63,8 +63,8 @@ DualMind/
 ## 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/kunj-pandya/DualMind.git
-   cd DualMind
+   git clone https://github.com/kunj-pandya/dualmind-ai.git
+   cd dualmind-ai
    ```
 
 ## 2. **Install dependencies**
